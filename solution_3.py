@@ -88,7 +88,7 @@ class Song:
 
 class Music:
     """
-    "A class used to represent Music being played.
+    A class used to represent Music being played.
     """
     playing_song = []
 
